@@ -1,6 +1,6 @@
 # MS-Detection
 Multiple Sclerosis Early Prediction and Lesion Segmentation using Deep Learning
-(Graduation Project – Computer and Artificial Intelligence – Helwan University (2024)
+
 
 Project Overview
 
