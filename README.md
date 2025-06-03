@@ -1,6 +1,12 @@
 # MS-Detection
+
 Multiple Sclerosis Early Prediction and Lesion Segmentation using Deep Learning
 
+This GitHub repository contains a summary and preview of our graduation project.
+
+Due to large file sizes (models, datasets, frontend & backend code), the full project is hosted externally.
+
+Download Full Project (Google Drive)** 
 
 Project Overview
 
