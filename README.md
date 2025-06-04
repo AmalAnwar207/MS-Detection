@@ -127,6 +127,10 @@ Resources & Links
 
 •	Enhanced performance using data augmentation, model fine-tuning, and early stopping techniques.
 
+**Demo & Screenrecord for project:
+
+https://drive.google.com/file/d/1s4dCAo732lMOiAMVTYUJ0mSyS52EY_5a/view?usp=drive_link
+
 
 
 
