@@ -16,8 +16,8 @@ Project Overview
 
 •	A web-based platform for image upload, visualization, and MS information
 
-
 Motivation & Target Paper
+
 We were inspired by and sought to build upon the findings of the following paper:
 
  Exploring Deep Learning Techniques for Multiple Sclerosis Segmentation
@@ -130,6 +130,7 @@ Resources & Links
 **Demo & Screenrecord for project:
 
 https://drive.google.com/file/d/1s4dCAo732lMOiAMVTYUJ0mSyS52EY_5a/view?usp=drive_link
+
 
 
 
